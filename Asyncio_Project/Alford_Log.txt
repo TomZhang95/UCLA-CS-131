@@ -1,0 +1,8 @@
+Connection establish from ('127.0.0.1', 56715)
+Propagation received from Hamilton:
+AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Connection dropped from ('127.0.0.1', 56715)
+Connection establish from ('127.0.0.1', 56780)
+Propagation received from Hamilton:
+AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Connection dropped from ('127.0.0.1', 56780)

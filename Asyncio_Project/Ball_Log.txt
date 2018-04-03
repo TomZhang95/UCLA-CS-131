@@ -1,0 +1,1111 @@
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 62978)
+Responds sent:
+AT Ball +32601353.915254593 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 62994)
+Responds sent:
+AT Ball +1511867425.3814921 kiwi.cs.ucla.edu +34.068930-118.445127 147941.1
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64416)
+Error: Client not found.
+Response: ? WHATSAT kiwi.cs.ucla.edu 10 5
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64426)
+Error: Client not found.
+Response: ? WHATSAT kiwi.cs.ucla.edu 10 5
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64462)
+Responds sent:
+AT Ball +32609420.21029544 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64470)
+Responds sent:
+AT Ball +32609460.552318573 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64509)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64529)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64602)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64595)
+Responds sent:
+AT Ball +32659289.521377563 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64631)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64647)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64652)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64737)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64742)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64747)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64753)
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 64765)
+Responds sent:
+AT Ball +32660925.324422598 AT Ball +32660919.80057454 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCDwEAADmaOm_ImEILT7R61miMzgD0t_DI9bzWKqXDwUf8aUPRR5yOrUCBW1v76t3hMXttGUyx4GIeaBlKgu8rLnauCk_t5TNOhOCCrhScQYX5RORgWfGHytBMnH-V0QMLiZYFfkfTzOPeQ7LYAeB3r6Mcwdtxncht6qHL8DaHLdjMV5LxXAYSl3JOc2TPeIm9qGbeY2ccHdwuGEuZAe0yidMMItF5ljE1bukw3Gcenjo93QcZouQTrqHCo5fa5JyFr2lMLfSbWlC9UxnDn_2ByvmD3X7q7vq1acLGlX_eKcetjQZRiyL2MBqe4NUcL5AEp_Nx6REzCkpdr5Kqi8nRQKe6LhkP8FZ9vGx458gn9si5RHsLEhCxv4N8kvHyAmSOBlY4mmjJGhQm7VILjFvugYCxHY9BrKr3BP2MrA",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117190772923098778352/photos\">Bodo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAL6fRHFS2ZIqPCyvRhcqqIafVZrREAZYX61TA17_oQQJsAfG2yp-yV0ZNPUm8hGRkjGskxXHaexpCcVe6A-sBkhyJEKcpJ68Dd2JW9oSa6AdU_Y26ci6NuD_ARMfOxVmREhAHckSn2_NGrMS2TCoJwUBDGhT_iayTTGm4lc1YtU7chFzqizkTCw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "CmRbAAAAhH-W7q_3Q6d7CMG5OLqHYQEPEVbgT7hWbPrn7O571tyGXlYp6bDA6OfbbZR35E_DS3wKXtYgODNw_pViHTw7KDgTe7CnF7jBTr2AuYBnZ90O7A-X4iL2BpIO5DdqHmLREhD-NC1SITa9EDL_noSBuKtjGhQy3wwJIofkTVlbdH8J8tLJGlEXrA",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.015431,
+                    "lng": -118.49896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0166399302915,
+                        "lng": -118.4978005697085
+                    },
+                    "southwest": {
+                        "lat": 34.0139419697085,
+                        "lng": -118.5004985302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6386ccce03d4d355c8c2a4a79253097969895413",
+            "name": "Hotel Shangri-La",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102232977187075463033/photos\">Hotel Shangri-La</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWIU6Luf3qVzMRhG20ycv3kTVO0jNq31jO0pHxZYzfPyAVFijFwTs5iyp7-KF8TYRGc04brt8leKzzogosgai_Df-TEiTcMz7SvDUSuBYtX6dONK-erdybUpNzSxlYdiHEhBjHDoiONYrknkj6XirGuBWGhRUEEfeulsZF9V9MXKEKYhV1MYnXw",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJIxnYQcWkwoARVbqXi2BrqlM",
+            "rating": 4.1,
+            "reference": "CmRRAAAA02RymIBUXbmvTKwXor9gAtwDg6yNZzFTvhDd9QJ-VQiwZhuNFx7YsEE0YcHz9Nqh_KibftclUVpEf2vdCGFnNHYtvxhaA77yAc_IjAhtCttaTKv7bVMRAc9wgnR1EomUEhD3JYZp7PjdmOwYSxWCLI_hGhRH1jmfURVtFFz1L1cr7EwqPKrBHw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1301 Ocean Avenue, Santa Monica"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06318630000001,
+                    "lng": -118.4415976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0645233302915,
+                        "lng": -118.4401413697085
+                    },
+                    "southwest": {
+                        "lat": 34.0618253697085,
+                        "lng": -118.4428393302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ddb6b9d2e25032f5541bfcf42b91f6c1161be1a2",
+            "name": "Hilgard House Hotel & Suites",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 260,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114543748345978093084/photos\">Hilgard House Hotel &amp; Suites</a>"
+                    ],
+                    "photo_reference": "CmRaAAAASbJS4OYLLGV6tj4zeVJu-HpFvQVvKOG1EWcyMwP9d_De3Qc6_E2gB1ev2jZ4_p2Km4XJkeRyaxlkKBtd3tN2H9JiRWpTzkjwCeIm58xFYRJwAjBiT-exYLTaqZDw5R9EEhBHq3AKZleYFp7mXLeno3kJGhSkwBPW9g-J73a58l4y7sPMv1qN4Q",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJ06ecwoC8woARVyPlQNVzetI",
+            "rating": 3.7,
+            "reference": "CmRSAAAApo7Ui36SaRy9ZWV8m3-qrCu1UmD2Rd0O1ApSmh0y1_Kh0Z704szoLB8vzYphyuGHWDKlHMttVmUMDF2QesmmkjiogDfZR0GXur9z3EMnbgZcGjv8AjCEpv9dt8hJk4k8EhCUrMkgSfP03-7UM379eGomGhRLlXBn_d6gz4EhYCywur_uWiSE-Q",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "927 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06328740000001,
+                    "lng": -118.4408984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0646767302915,
+                        "lng": -118.4397693697085
+                    },
+                    "southwest": {
+                        "lat": 34.0619787697085,
+                        "lng": -118.4424673302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "123c3294a684a0fb173c40813459506d1420c75b",
+            "name": "W Los Angeles - West Beverly Hills",
+            "photos": [
+                {
+                    "height": 2598,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106717016222686749028/photos\">W Los Angeles - West Beverly Hills</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAxQNhEiYcv9Q1LH4fMqwypw6Fn32KWVagqbMXh_pSxxovJ6jgtqxFEsOQGhjhG1qE27TCEPTOzE4WmryokiJ3wEkfZkBeffMNqg_JDMXp7FcwPEMgCEEfCh44M1d5FZ5aEhA_9DhptlzlVBwyT_8DLfbTGhTNIx12ycuxq2u5f_LqthFrZSpgAQ",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+            "rating": 4.2,
+            "reference": "CmRRAAAAwhdl3TUiiJXnFmcvx0f9ABlsihwnK2Okc-n4VLGZ67ZWAOBEzuRFs5a5bVRihWo3eAPo-mYbcKClSuUHjVLAh07QwklSTyedYIByaBE1gm77HVLTXOIhxCN93-2NXnj6EhDbLlP2tXX15y2F1_yROk6RGhR0XP3ijG2bobmwec-bUkIOFvGKvQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "930 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0606338,
+                    "lng": -118.4429579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06200038029149,
+                        "lng": -118.4417208697085
+                    },
+                    "southwest": {
+                        "lat": 34.05930241970849,
+                        "lng": -118.4444188302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d9aae9960743eec4c49c99ac8a437b7ddbef7c63",
+            "name": "Royal Palace Westwood Hotel",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114094194621340748848/photos\">Carefree 1AZ</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAoA2E79UDgi9-h_nOxyzStMEuB4apNE87XUPolPoHYy7euySL4Ab2NmPG-AVsDxXlFg7M22apydego56BQ8i2CbC2ZkOJn15nwtMJzMOQ9UYagrH38BIC4Nd9LrGnsquKEhBGDG6TYd-WVtJe1SQASbQMGhTNOAMTXyQW_sv7TfsiEP2wwKuj7A",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "rating": 4,
+            "reference": "CmRRAAAAJEpIVRDC4hOYdwH6fR7kRQhce7z_ybtAyb5lN7Grmk8xYwWjfG10g2LEdEUqPPHrj5--B8dFNetlg9YHbT7OAFIdmynHj4hY7H5X2t8CftrsDCLgO8m8OkHgESi8qEGfEhCCoXgV_lQVz2B3viLSaureGhQzD-cOby0mqzH40LzwRsf_NBlj7g",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1052 Tiverton Avenue, Los Angeles"
+        }
+    ],
+    "status": "OK"
+}
+
+
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 65050)
+Responds sent:
+AT Ball +32661365.185019493 AT Ball +32661357.070280552 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCDwEAAPdhuJ04xOElUWsVJofSg7PPs9gUWLedLZyi7OfKl3RX12RnQfaqwc-F_uNIWtrmlTOd7Iq879CSaFm6kGFiWk7JsBKviIkJJr00RG7Toc6H06L8Pz07vCWuD9_VVyo3aSHYav15e_lYdWxpNQtMlzsvL99mlMtQzMAKMNs2LA__HYpgI2x4G3DGPcK1JF1vKixTjvcrJnBWl7X6QxVMy9q2MKhT6UyQzpQhrpV5_SoUM5sWhBu9n6DEfYrjExB2BamVVHk56Px22uo3g_X_qk37423m-DKsIVzIoRgntlzZLO26I4h0uiqMnltnK9Wk-o0oIB6ll8ERcbvU4AWH0DWV-unBu8T27UZoENfFPbECEhDqpmfBnbaiJQstouSxD09tGhRTott-8vyI-cl8hGcERe45YfVTiw",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117190772923098778352/photos\">Bodo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAWrU5dbGBJO6hBhMgPSic5qnm-s9zRsHDUCE9fU62Y89RXvplZqH4RMVyt7wRENWkALKhL3fwhLBQXouuapWW0BQmLdS08LpPrgO6C2bF1hpJxAYqNw9Mug1qIJN7qIbGEhD2UzWexMRS_dnatXEjaYrGGhTpoK_uSBjHlfyFH4SyxiuJvlNJ8w",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "CmRbAAAAXDKHCt_nTASXOle9MM71xY-1oZTpHCRFK0e2C14evidW_eNmNGqgRipV6blWf2JmorHvum-x2i-uMEZYSj8ASemXTFrqkZZbGAlVe4_XE0cWetmUnVLWbBZczVMzE54_EhBMttPCk3BzamUhW0DdO4l9GhSCmzXmwmPJIw_W0K8iv17ffMXYMg",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.015431,
+                    "lng": -118.49896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0166399302915,
+                        "lng": -118.4978005697085
+                    },
+                    "southwest": {
+                        "lat": 34.0139419697085,
+                        "lng": -118.5004985302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6386ccce03d4d355c8c2a4a79253097969895413",
+            "name": "Hotel Shangri-La",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102232977187075463033/photos\">Hotel Shangri-La</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAHU_Zez6AIS3zObtANS5EofZ1F3p2ayEfFLa3RpZjY5f_KdRb3dwJztQyPWXnUOTbDRW9KUeHt-AWQttMAnRTJG22d-2TWSiofckscFvoZ-9zf-P5vasJUNJQMiArFobmEhB6wnH-_TJ0LwTenHiBYczWGhSjx8rn0OMSKPcGEUbEeZ0r5S82Jg",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJIxnYQcWkwoARVbqXi2BrqlM",
+            "rating": 4.1,
+            "reference": "CmRRAAAA-EEKb6AzI0wMVJy2SuRLKOoNzT37IdA1qw2xQ1AxSYUQ3plrh_1_o8KU0o0u0lZwJ9R6Y8p6lWL58Zi5Fsd4Xer65bNLPGnLHq_8ERwV-ccl6SYuhWlad5GF8c3HrJznEhCQLkb9_4h8VAwR3aBPNBv6GhT_9LngPlFtkrNXkuXKuGMXl7eQNw",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1301 Ocean Avenue, Santa Monica"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06318630000001,
+                    "lng": -118.4415976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0645233302915,
+                        "lng": -118.4401413697085
+                    },
+                    "southwest": {
+                        "lat": 34.0618253697085,
+                        "lng": -118.4428393302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ddb6b9d2e25032f5541bfcf42b91f6c1161be1a2",
+            "name": "Hilgard House Hotel & Suites",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 260,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114543748345978093084/photos\">Hilgard House Hotel &amp; Suites</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAXxSZmr_G3V7e2exjf0MH6og1ec2NzSx5NXFpFqNFQmviV-fcnmh2WL0DD1fxn7pGKZ_g2lTEHyIwuISA9gd7zbkKZ96Ie2rLPs2MiYn6RBgyTjd6j0a76kdGzPssWIliEhBuHrqB6jjevvrpFZh6ThvTGhR2oXTPr8cEb_irjP6_FCZ0V13uag",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJ06ecwoC8woARVyPlQNVzetI",
+            "rating": 3.7,
+            "reference": "CmRSAAAAD-Sdjaf9fPGE8vTPrweA-ODyeWqs5MhZifsBKjTIRtxElFZUcv3Wxl44BJyMEoKHNCKy8pARKX6DFJZYhAOBdw-URT2YlLIZuVyNbOwjJvyCtOdSDmeykRhp589CP6XuEhCiSkgQ4G5kQf6fEYUegJuhGhRA4P3mF7G7qh3oWmQ9KpBgHabI-g",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "927 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06328740000001,
+                    "lng": -118.4408984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0646767302915,
+                        "lng": -118.4397693697085
+                    },
+                    "southwest": {
+                        "lat": 34.0619787697085,
+                        "lng": -118.4424673302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "123c3294a684a0fb173c40813459506d1420c75b",
+            "name": "W Los Angeles - West Beverly Hills",
+            "photos": [
+                {
+                    "height": 2598,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106717016222686749028/photos\">W Los Angeles - West Beverly Hills</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAJI4kGhFd-9omfhLsftgLzC7_hDGQ5jQgH3bDaYfTc4RBTKFjeJoWCv_TuC7Fzab0Fyf9n0o5NIoRIbe0Ujbtj64pljBn6A66XodXf0N78uE4YeByi2kTllKyXDjmtFrqEhAtsZvd55zEOyTkkTQWLetfGhQ5NSyIpjU-mm8CxCdNw8OVePvmhw",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+            "rating": 4.2,
+            "reference": "CmRRAAAArxUuhEh0OUM2ZmGS3zCDzIdRl2RsJTp7iANfixlx1XQlxxpBStKlA6mSYpBSDfBfkwlPJj18Na_UhAAn4fLro636vgKeA-aP7gBCinLqtYWZU-vVLkhEyBlhfNeLwAdcEhAcyUMtsEemwlCKIMtcSG0SGhS9BoTH6C4C5q4yR4HpoTIdVXqgyg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "930 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0606338,
+                    "lng": -118.4429579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06200038029149,
+                        "lng": -118.4417208697085
+                    },
+                    "southwest": {
+                        "lat": 34.05930241970849,
+                        "lng": -118.4444188302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d9aae9960743eec4c49c99ac8a437b7ddbef7c63",
+            "name": "Royal Palace Westwood Hotel",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114094194621340748848/photos\">Carefree 1AZ</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqXihXBwW7WLng1E6WdTgiyyePpLFRpBWJJ7vsWIOLl06oHmASXNdWsGpmsigpsSTdq4Xr7_tTILOuAsBEzkLOCtUA1iYX1uX1U_UGjhX1SR_1O9fw3lHI9JCbJwVYTx8EhCwR4ktmv0XPTQSG7XKoCuiGhSSXwePk-UCqvyn0kdR1RB099_2_g",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "rating": 4,
+            "reference": "CmRRAAAAf4CEUKBnb5txWKOOcGzllYGY88Bo_RjXszVIntM1zBgQDDf983MdDfo0SiR8f37v7qTqpuCRbNKTIJDukoVln-fTXXjL33ga6Na_pXT618nfgDtm37VXTNPBJ64_dlG5EhC6AVuicb3KcHmtmj7arbbDGhT-GbZt4haOlz9WY8eavXneyjUe2A",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1052 Tiverton Avenue, Los Angeles"
+        }
+    ],
+    "status": "OK"
+}
+
+
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 49415)
+Error: Client not found.
+Response: ? WHATSAT kiwi.cs.ucla.edu 10 5
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 49741)
+Responds sent:
+AT Ball +32677374.842926502 AT Ball +32677364.707802534 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCDwEAADoppMdcpFukTiVcLGaQbh_fILWmyFjoMDgye1lkJPi_9RECZ6UxCZnROj9FSoQ-SFGKgnSyBICHB2bihnfPQlbR1X9mDdklTC94zKOs-e9u9NU2AshvWGPG97AObwZJD-gcbcdT-LSOlOpZCtCuDP68jEl1GsrUth958F0FZ2rzFUB_QtnlWGifx_99ciqn7kO0eIcWpLRC4Ivfq8G2k7Wk8slpVY7Deb-qo3ajS8uY9L8DXU1v37461uvrWgSUxfrnNfPDk-uQPC4inqeKRXGZ62OHLtlQbe6OSmvoXcBvBJ5l0LyojTKLWAPjVzA_kdT3thHFIXX4poDztP94VqO6eIBiL46MWBasqpPHvrBCEhAaK0fZgCQEabSHzCng7EhjGhQhHb1Qnu22o49aN3KtMD7zOIRUSA",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117190772923098778352/photos\">Bodo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAE1uiO36j3YAm1dSXMeDV6CKTJJD5HJaVeiZN5le70xYg1m8qtFAoh2HqcPm0be2T9J6T75VMhRhTmvKUB6Shbwx7DJXWBqTDE_YVqYhW6qaXOTNJXKIWjjjTeLufGPzmEhCP7EUa5vBmVBtZKCuVbNdCGhTf-LLxUqCHFNpGh_4eHNYJPhenNg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "CmRbAAAAT5ow5fj1tV0b9tissT217L_luLsq3QVf0bK14tUU9BayjLn6AUBqGGa9N8qlSJf2_5UOGYC_oy4S80GVomxKCIz9HiwgwGdFrZPX0kSbI33SBUWBPCEupbj_WJdQCQamEhDsDujVxFoX8uyn4zpnkHKNGhTWH_3TN5ZKAKarxwq6js1L8YYf2Q",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.015431,
+                    "lng": -118.49896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0166399302915,
+                        "lng": -118.4978005697085
+                    },
+                    "southwest": {
+                        "lat": 34.0139419697085,
+                        "lng": -118.5004985302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6386ccce03d4d355c8c2a4a79253097969895413",
+            "name": "Hotel Shangri-La",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102232977187075463033/photos\">Hotel Shangri-La</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA9s4_BmZRg1BoQODuT2wmXb9qQEernLv54uAm8Nhn-UO55qd33EqPJzMYvBGRcD5fBdCxadJ7MZp5ToKSKtsi1gk89YQWQMKWptu8YJyPwr7qrvmCQk-Gnd7G4XBrY0jmEhBYn1b7kjk0KXRHifsCToBcGhT544noWp6QMU41D7yVpRkPorGoQw",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJIxnYQcWkwoARVbqXi2BrqlM",
+            "rating": 4.1,
+            "reference": "CmRRAAAAdg7G0aSnU8mpS5LCn2W0NOkOXMkMzk6hDTOdZnB2QLokar-E9b7fml4tCA3qVNOSh0aZI0WV07locx-KMTA5jlSJ7D0bXl6VtfkhsA7-Z9AAKonQOpYOqh1zbegZSPYbEhB1P1t9SvimNOhytjlIcP96GhT-lzSO4djdWoLfIHoNCk1vCEFZRQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1301 Ocean Avenue, Santa Monica"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06318630000001,
+                    "lng": -118.4415976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0645233302915,
+                        "lng": -118.4401413697085
+                    },
+                    "southwest": {
+                        "lat": 34.0618253697085,
+                        "lng": -118.4428393302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ddb6b9d2e25032f5541bfcf42b91f6c1161be1a2",
+            "name": "Hilgard House Hotel & Suites",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 260,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114543748345978093084/photos\">Hilgard House Hotel &amp; Suites</a>"
+                    ],
+                    "photo_reference": "CmRaAAAALMsx5B7QU54_ZdupZ4Yli-kuiqukdT9gtUDkzPDz-AfKCrwK29-f9278q046dtBoKY7wXIayjgcktwFYXHk1tGqq0aeZ2FXpOY5dQcXAn1uC2saBxEaJukew179wKXauEhCtBBG6fJxhxK6iJRWnLl__GhQBeq-nsHlM5b20TuxTxhVESVOXrQ",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJ06ecwoC8woARVyPlQNVzetI",
+            "rating": 3.7,
+            "reference": "CmRSAAAAANPe12KdXOib4mdiD_LQ8PhVNa8rX5f8IqsKchoSa0gvdK_N6tcVAPISrIMbxPs3Oa8vdeVab6nq-YKpD0EIeorU80Efd7bsVmWhGRxDgKJORMq5xGVZWaI8x8SUEvxcEhD3cIx0BGmMg5GhrlJq60XXGhSQq813U6Oiec7P0J0IV4UFOK-WTg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "927 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06328740000001,
+                    "lng": -118.4408984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0646767302915,
+                        "lng": -118.4397693697085
+                    },
+                    "southwest": {
+                        "lat": 34.0619787697085,
+                        "lng": -118.4424673302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "123c3294a684a0fb173c40813459506d1420c75b",
+            "name": "W Los Angeles - West Beverly Hills",
+            "photos": [
+                {
+                    "height": 2598,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106717016222686749028/photos\">W Los Angeles - West Beverly Hills</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAqufZMFmiZIu_hgz6C9eut1u1JJt4AVPY2I1LGfHpMmHdiL783_HIoV24UcymPL0mcbMNXh1Ixtu39J8222AOmSJpWQp744VOZ3W8xBvBCqYSHUEC2WUZPL-t0oqZXkANEhBIWl3WcfVfbCB-CHcq5DIkGhRSux6Z2QpwPn4_4YKt3yowFr2x7w",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+            "rating": 4.2,
+            "reference": "CmRRAAAAXCI_6jELOm1naQ5UZnZMS9WMrw70KotjwyfD_SNDS5K2CNsf4QTKTPnK-3v9T8HchsO6VP0KdRn9Ml0UKm7OPJHcnmaGLs_Wk6TEeaX-lPX39Fo-pYtE87o3H28TnXMbEhAw--qNVzVMNzvQ-grCNHiwGhQIa8_PHBhFB3ZTiDX_eSY5p8UzeQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "930 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0606338,
+                    "lng": -118.4429579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06200038029149,
+                        "lng": -118.4417208697085
+                    },
+                    "southwest": {
+                        "lat": 34.05930241970849,
+                        "lng": -118.4444188302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d9aae9960743eec4c49c99ac8a437b7ddbef7c63",
+            "name": "Royal Palace Westwood Hotel",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114094194621340748848/photos\">Carefree 1AZ</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAp0WEK3SUg8LRebngTnke9aKrsjsVDHh-BhfdHoLvb_-lwXKM6mI0IUuvjTOQonpmbTl9WYnRP9d2bigiUjFbMa7K5vmbrVAprr5D7Bt-6cjeM4eSOTNxN9AVphr14Q77EhBo7JfCtfF0tGRD-TihKlxWGhTgz3ZSYYmheQkNaoYcYkJpkBO3lQ",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "rating": 4,
+            "reference": "CmRRAAAAFCmD0S7Xia1HNiraRr516wosTUBs6mnYjUOO64x6IZZQJwNhiBzw70MQgpHtwXQRRKnHLeOrpb_TeYWjERPr03UONaLWuy5jOmwdNqudmeuSe1P5ELoMmobccX9_BY6wEhDQBYJRalREGh9AScNtq7BGGhRU60ITZytZ4KcOGVkAzRVvRuvKfA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1052 Tiverton Avenue, Los Angeles"
+        }
+    ],
+    "status": "OK"
+}
+
+
+Starting new Log for Ball
+Connection establish from ('127.0.0.1', 52258)
+Error: Invalid command.
+
+Response: ? 123
+Connection establish from ('127.0.0.1', 52271)
+Error: Invalid command.
+
+Response: ? asd
+Connection dropped from ('127.0.0.1', 52271)
+Connection establish from ('127.0.0.1', 56820)
+Responds sent:
+AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Responds sent:
+AT Ball +32874591.716653347 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874591.874225378 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874592.0436635 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874592.199812412 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874592.37583232 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874592.53130555 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874592.68856144 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874592.849580288 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874593.008304358 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874593.1764915 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874593.341489553 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874593.492405653 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874593.665284395 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Ball +32874593.8379004 AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Connection dropped from ('127.0.0.1', 56820)
+Connection establish from ('127.0.0.1', 56841)
+Responds sent:
+AT Ball +32874743.202279568 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Connection dropped from ('127.0.0.1', 56841)
+Connection establish from ('127.0.0.1', 56843)
+Responds sent:
+AT Ball +32874743.460015535 AT Ball +32874743.202279568 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Connection dropped from ('127.0.0.1', 56843)
+Connection establish from ('127.0.0.1', 56850)
+Responds sent:
+AT Ball +32874799.10701561 AT Ball +32874798.477473736 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "next_page_token": "CpQCDwEAAEVXhnaPBVAfpp021QQUs7_P3JhacNuq37WEmvtn2x1xQpDYXHKp2pluAC1AVZgK82cMh6bCcRJ-b9qN3dQf5f75wiwPNIhkG-TqdWenKmhGu8DuDYXiWNUwyxGWl-qn7plM9A7X8C4mDcugF5gEdhX0ENQpydRPVo4o4LDRmww__8tp1LVnRWWgVTGmSTCtLty3Q-qgUhdJAPTPy5Wni_XvtXVkqLyC_EaONKzEaZFxToZjHw2oLXDEuPdnVFXzIdkGFey_Xi4ueiufT3uLudJf8JiMknrf4dkvu0dtKTYUoOme7WpBBP3kT5905Jw5ic_hOjSHRlk070DIosuHF_LaaxVcnRAz1iNVWIdzRRNsEhAwvMtxRefooLjcMVdEU52CGhQ8C1DOoHL5v1xeIY2LzS4ED5nEZA",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0522342,
+                    "lng": -118.2436849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.3373061,
+                        "lng": -118.1552891
+                    },
+                    "southwest": {
+                        "lat": 33.7036519,
+                        "lng": -118.6681759
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "id": "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+            "name": "Los Angeles",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117190772923098778352/photos\">Bodo</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAO3rVtHao61H7Vz80-fJqPY8ANfgp4Q558G49ageqcNmLwKqcT1cdLfTcDmtMJ-bK-DmYpYjx_0TIOwCYcX6kttt8FhLF0O2aB7W9nyKq608_lNz19iya6YwY7dR_PIe9EhAw6lMoyCX5ykcmH2uFivGWGhR4wB7b4h-xzayrrQVUX9h8BBLWEw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+            "reference": "CmRbAAAApNk1U0Co7xe8yrQW7mwZW2tuF4Mqt5MkNLLvYi9QC_laxSE2Z_KfWfBrTi4OMmWcPEswmyI8C_v-zjKws47y2G55-EjQpmcJD6EYyLqwpybm-1T6meulXPfugffHH70aEhAwakcN2N8derjCQVW0B3OMGhQoZ5B7rOEjJNGA22zLEBryBPKsQQ",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.015431,
+                    "lng": -118.49896
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0166399302915,
+                        "lng": -118.4978005697085
+                    },
+                    "southwest": {
+                        "lat": 34.0139419697085,
+                        "lng": -118.5004985302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "6386ccce03d4d355c8c2a4a79253097969895413",
+            "name": "Hotel Shangri-La",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102232977187075463033/photos\">Hotel Shangri-La</a>"
+                    ],
+                    "photo_reference": "CmRaAAAApQLshb4pkW6BfvdSFAcX2Q8Ds3oUFsSiX0nVnqs1DDkQ4keBXRJsqWo3ciP5a3wRNZ0mQ5tuXnGOUCWOfPX6OudVnpilJpEbXj_MTFDRXCT3Y8lJ1vO_VogqKLQauIYhEhArbpJTNWonE6HdVbtAbFNJGhQ95xGC8GZN1OV5zD2Wou7PqUxjKw",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJIxnYQcWkwoARVbqXi2BrqlM",
+            "rating": 4.1,
+            "reference": "CmRRAAAAZQpflI4GVxV5NwdlbbKb3mG-7dUjL9UFntLHOpLtCFmh-115_Pq_lF2QzoNlGb1Zw-gq_tiOTjQ9o1yG4iSWPkLGb-6R6RtKTwBTBOX6ErRYRyj1W9kP-S2sPy1kJ4yEEhARe_1U2QCiAyE7Atx6HygfGhScYny_C7QyRKg1En3CegoJbAruhg",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1301 Ocean Avenue, Santa Monica"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06318630000001,
+                    "lng": -118.4415976
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0645233302915,
+                        "lng": -118.4401413697085
+                    },
+                    "southwest": {
+                        "lat": 34.0618253697085,
+                        "lng": -118.4428393302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "ddb6b9d2e25032f5541bfcf42b91f6c1161be1a2",
+            "name": "Hilgard House Hotel & Suites",
+            "opening_hours": {
+                "open_now": true,
+                "weekday_text": []
+            },
+            "photos": [
+                {
+                    "height": 260,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114543748345978093084/photos\">Hilgard House Hotel &amp; Suites</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAYWF1XjiQLFPECuSYFqdbwJu5A6Yllnd8JtocWc76a--xyqyYK9w0y78f8Onku8pvFA-SPEKif12z0lFuHMqyAyLGqayuvWtSi1PW4un71peXnr6s-Ksx7wPTVAjnEgzaEhBlkHAGZRbcXt8bx7B4BON1GhRNVoNf0o0gdV0ivtEFZ9XCFjxyZg",
+                    "width": 300
+                }
+            ],
+            "place_id": "ChIJ06ecwoC8woARVyPlQNVzetI",
+            "rating": 3.8,
+            "reference": "CmRSAAAAn_wlm-wCfDYVNUjF8UJ9_o-IIluJNnVQSM656opfSThn9LSxBPt0QInw7sCg_5Rfff837p4ushZFNUj_lvdWPVgyCYvTkHDPbTXGxfvFcNsW_Dq-tIsDsxC2jtmKyAk0EhDsPhPTFZcn1wNgwmkwSjyRGhQcDV7PG4cDfG354V-BeAjFxMtpVQ",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "927 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.06328740000001,
+                    "lng": -118.4408984
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.0646767302915,
+                        "lng": -118.4397693697085
+                    },
+                    "southwest": {
+                        "lat": 34.0619787697085,
+                        "lng": -118.4424673302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "123c3294a684a0fb173c40813459506d1420c75b",
+            "name": "W Los Angeles - West Beverly Hills",
+            "photos": [
+                {
+                    "height": 2598,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106717016222686749028/photos\">W Los Angeles - West Beverly Hills</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA7uVIDvR4GAE30h9GNMcqQsFxyXNG_gnczNiAs56f5H_ByHQx702Cd9bpwgZvWeNbfqnaoq67I6EslZS8z21fCoD4ggYFOcKPVrDm9m-MQzESVz8egUnD9XWCJY68INeiEhDoxibK_vUeqmQhbYWP5pnTGhSNzDGZIeVNdh1IiLydyQXM3bMClQ",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJffYelYC8woARkChY4cQOzUM",
+            "rating": 4.2,
+            "reference": "CmRRAAAA42nUwVX6gr973UzncA7rQ0WAl7eFAqxvPQDfdf9se7s2xmesMHehhP1NJP7TYefbAXB7zaEJHXzoKAf_0TzOXggAFRP4vKGRV6ef5YpctVGMU7qYT_EsgZppK66DqoyrEhC0xsIPNNr1OyzJDWmEChF8GhQIWooA70hZaxTqCqxlQo9oR22jTA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "930 Hilgard Avenue, Los Angeles"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 34.0606338,
+                    "lng": -118.4429579
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06200038029149,
+                        "lng": -118.4417208697085
+                    },
+                    "southwest": {
+                        "lat": 34.05930241970849,
+                        "lng": -118.4444188302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "id": "d9aae9960743eec4c49c99ac8a437b7ddbef7c63",
+            "name": "Royal Palace Westwood Hotel",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114094194621340748848/photos\">Carefree 1AZ</a>"
+                    ],
+                    "photo_reference": "CmRaAAAA25BbvHKMNS4M5ql60vWGIPMOxz0KxkHEkRke_aOKBx7lgBrRA68KlKrTyAXheEu8k8qwkiE_iu5wCG_8Ypbi1qpUdF8Ubl83S6BDYdd7dfniwD38dXXDT6vVNUOZjmEeEhA9r0I33TWKLrWEJYWSFCcZGhRaegJDWn-S4-DnoY9IeDEXx2BzPw",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ36i1toG8woARHcjs6P2eCkU",
+            "rating": 4,
+            "reference": "CmRRAAAAb-IpEIxBKkcA22BPO9_yo9WNdndkMC7STObWNVHHXTfJmUUDHtIPnYMVmuot9hm2OvnAkrQTRDCWtuQSjoTplvH6DT7vpXZw-o5vcKPOaLTvpOp_OLEmH0Lgh52wzx_ZEhD7F9AnriiDOy34YGUj0JNjGhQ0xp3tE-j647PuHZV9pHsOQ7DPrA",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "1052 Tiverton Avenue, Los Angeles"
+        }
+    ],
+    "status": "OK"
+}
+
+
+Connection establish from ('127.0.0.1', 56849)
+Responds sent:
+AT Ball +32874798.477473736 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connection dropped from ('127.0.0.1', 56849)
+Connection dropped from ('127.0.0.1', 56850)
+Connection establish from ('127.0.0.1', 56855)
+Responds sent:
+AT Ball +32874827.759203434 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connection dropped from ('127.0.0.1', 56855)

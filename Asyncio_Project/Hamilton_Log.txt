@@ -1,0 +1,1986 @@
+Connection establish from ('127.0.0.1', 53520)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Connection establish from ('127.0.0.1', 53525)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Response from Google:
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=UTF-8
+Date: Sat, 02 Dec 2017 00:46:20 GMT
+Expires: Sat, 02 Dec 2017 00:51:20 GMT
+Cache-Control: public, max-age=300
+Server: pablo
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: hq=":443"; ma=2592000; quic=51303431; quic=51303339; quic=51303338; quic=51303337; quic=51303335,quic=":443"; ma=2592000; v="41,39,38,37,35"
+Accept-Ranges: none
+Vary: Accept-Language,Accept-Encoding
+Transfer-Encoding: chunked
+
+297f
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCDwEAAP2mIFMbk7qe9r6-qjvHtAp7Kc1ihlhz2vTQMHaQU22xTtHJRUZdmntUS7posMIyHu_u6wUhPfNeN1QvREoVZOSirx907K5NfMpW1b2YRE793ZR0ep9_VyiB6v6Jf8v4H80m0xf-aUELfKri5_dG0ak5Dkt8zlX8fMGFc4S5ozEkMpi2zwowhcKQg6KxOD2qLt3SPYxLlRcmRwOsbI7VqOhR-7SGVNQtEF6QxZZ-V56LB-3Hev2vOIaALEbKTN5MiN_wN8lQ1QEJECoY8uTkVWi192YC3_dagt-JxOWJfFqKfvscTND-pEhF95bAaFFabgaVEiCBbCPaq2BgWEYv3TgOobOj6OluzxzJAhwOkfpwEhDv58Go4jb6Wi-jb48k0V0DGhQj7ac9lIGcbDLlj0LwTWA_VHCcOg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0522342,
+               "lng" : -118.2436849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3373061,
+                  "lng" : -118.1552891
+               },
+               "southwest" : {
+                  "lat" : 33.7036519,
+                  "lng" : -118.6681759
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "7f7b7d8118ae8db8ed3f541159ac928c484d12ad",
+         "name" : "Los Angeles",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117190772923098778352/photos\"\u003eBodo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbkIa6iiMil5UBjHKTa2j5foqX9PNwbNGWP2HotcBDAda-aPCflv3nkkQIp2-jhgdXuIHdGNI07PfYfi2JbiUyuM7WMXo3zA9nV9NJl1jOdXj7mqqnfI6KCBV4txsWD9kEhAFH2r8JlcMV6jvh8R2ToWPGhR0s2Ug_6ffsbLyAOna9ScHi94aNg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+         "reference" : "CmRbAAAA3zNW6gvXFQn2y4AjffTzKc6xJtna2d0lg563sSlxAkw1zyXpXIjhLQTd9Uda9V0RGxGxhnRd0A6E3Nobvn9QKgfjrLpOTVerdBd6S4p0zyzVH_cwpBB8X1hzGcUfzHGeEhCXEj87s2tvi2J9Y55lifm4GhQx31SkeJtViXRyc_atK81D896W5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.015431,
+               "lng" : -118.49896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0166399302915,
+                  "lng" : -118.4978005697085
+               },
+               "southwest" : {
+                  "lat" : 34.0139419697085,
+                  "lng" : -118.5004985302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6386ccce03d4d355c8c2a4a79253097969895413",
+         "name" : "Hotel Shangri-La",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102232977187075463033/photos\"\u003eHotel Shangri-La\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARxicVnC7_zow86jzgNlGgxaAN0297-w60acB4jUj5wSiZfecj_BATlFV4gdpT5xiuN3XeGGSSDqIMTbUgA-VVANYnZnUsLSLY7ENDA8TBi1n0ga4c0SIfw1EyjMzVRDOEhAaU1TuHheIIFQhLKEhu_VAGhSH8MP6ZFRkYlMuGEt8ya27epw2EQ",
+               "width" : 980
+            }
+         ],
+         "place_id" : "ChIJIxnYQcWkwoARVbqXi2BrqlM",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAn3zdjoCNufpX3ZrP8nPYkzqJVu96fnYkaRXvweo0husBtfRVhts4GBucPCsgr33pbZhEwyQi1vNL2JmL6FMzN8knelRwZ5CFKnO0qaMOYyrm0pdwbiSX_Ld1qDR1DkteEhDX6MYRYT7LM0KYQTvquOaWGhTRVSmWei6lh-1SCxn8fubxwXflCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "1301 Ocean Avenue, Santa Monica"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.06318630000001,
+               "lng" : -118.4415976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0645233302915,
+                  "lng" : -118.4401413697085
+               },
+               "southwest" : {
+                  "lat" : 34.0618253697085,
+                  "lng" : -118.4428393302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ddb6b9d2e25032f5541bfcf42b91f6c1161be1a2",
+         "name" : "Hilgard House Hotel & Suites",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114543748345978093084/photos\"\u003eHilgard House Hotel &amp; Suites\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHI5Q9PErTURR2K5ukXOsTFbyNsPc_Alscfl20nclpzb7qPLvPJlBI7gGTRpxtid__Zy2N0vcP6waDXaxuvJBgPOppxJva3ft5X-uK3_u8nC6LleJfbpqM_Uo3eu9jJxNEhDFP_KN9qQft-aG3wq5pj7JGhRtMCVU-isJkTvl8IMa4jRgdKmm6w",
+               "width" : 300
+            }
+         ],
+         "place_id" : "ChIJ06ecwoC8woARVyPlQNVzetI",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAA3nArydvpIM0vE5fBBcYY6QFfpWAIG0Hgjv1aD-c4uIxdCfraBa4FqMsyQ9z34jIbf36wKZRepoHsxaWEitthkd53eIeqUnwZFAJdMtGhQmRyihC1iJMMTkH9hMqi7ZL_EhCR9E5u7xKGaCm08kPeulavGhTMwbm-YJseQdy5wvo7bPQGx9-BEw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "927 Hilgard Avenue, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.06328740000001,
+               "lng" : -118.4408984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0646767302915,
+                  "lng" : -118.4397693697085
+               },
+               "southwest" : {
+                  "lat" : 34.0619787697085,
+                  "lng" : -118.4424673302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "123c3294a684a0fb173c40813459506d1420c75b",
+         "name" : "W Los Angeles - West Beverly Hills",
+         "photos" : [
+            {
+               "height" : 2598,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106717016222686749028/photos\"\u003eW Los Angeles - West Beverly Hills\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiswE-B8iahCqu8J4m7Jo97VjZx3EIl5QPvj2TdRZUunQT4FRTwJNKkzwcDmTd_0K6aURgWgOHZM7xFBBsBmcZ-YUA50hM1bfDXBOoHjonz3qRuIgsqlf6bgQJ8On4vBJEhDVCFVRy-b5IgWECdHy7pGcGhSv9CKd8Q7Wl6kX1MlMfZc-adTCig",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJffYelYC8woARkChY4cQOzUM",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAb6NKwYeLt2K8hUjN7mIL7SuHeLhZfwsH4c1aghmRl5p9r8Vpj_AHOV0HjfwsMCfStwOCEu3nyPGo3wIDtSpn-2_CBBijRuV8IEg9DDE71Cb84ivUsfQoZL_ENoWCJJ5REhD38DyOk-aWpmBDaHpwKnfXGhQiRhZO0rEpg5eJvTcO7v4qTRJbEQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "930 Hilgard Avenue, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0606338,
+               "lng" : -118.4429579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.06200038029149,
+                  "lng" : -118.4417208697085
+               },
+               "southwest" : {
+                  "lat" : 34.05930241970849,
+                  "lng" : -118.4444188302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d9aae9960743eec4c49c99ac8a437b7ddbef7c63",
+         "name" : "Royal Palace Westwood Hotel",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114094194621340748848/photos\"\u003eCarefree 1AZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgmRs42c2S9EYtr55Zh9Bb4GXBvXO0_BbazCGrKsts0qWdEe_oRdFr8qpJ7_bl353oR9KiSoIz8XkVvImoUyhmHrTfz2y4g2Fp-OqrIAiSFOPxXt6NRvavd_hfnj0PaHfEhDkjYBMw7tveuxgVnFgc70wGhQ4WSTdm0CV8U4YYGWH8eWAYYYOZw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ36i1toG8woARHcjs6P2eCkU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAd7AJ1WToaHi20Hlub2dpbR4fn6sGUIWGUhm17bUrJqOs4doqR0cXLd8JIj9mhhoMV5-eqx9QBoRnnbC5Wyt1wu030N8UN8L8ZvK9xZkf7y1pJwbycFMLE0WyVX-4VIlBEhCN_3g58Z9ZbNX8dLsnxfWmGhQJCo8GJXjveZ0Nr3UpBHK-8j-uRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "1052 Tiverton Avenue, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.06745300000001,
+               "lng" : -118.425796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.06903493029149,
+                  "lng" : -118.4244908697085
+               },
+               "southwest" : {
+                  "lat" : 34.0663369697085,
+                  "lng" : -118.4271888302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a5699f3a10cfd58c6aab513ae29e157fcfda7ce2",
+         "name" : "Beverly Hills Plaza Hotel & Spa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 399,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114847693603122547699/photos\"\u003eBeverly Hills Plaza Hotel &amp; Spa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAca_I2Qgdmg2yM3BzumF-xU0ySpAg2eakqObKVRMblmyuGrJlpZ1R9ZsR6lmXNi_kSKsSJkfCCnER6gGdV-p_xPp5csQE3Z9AcveGm8QfAn_owXiRkTeV0RwMPpW6zG0pEhAOGonfrwOvYTxbR_GIaysXGhSu5HhdixQ7F4f5CJjSB2JC_jdXZA",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ5ZA1I3e8woARBzIurF6K3vU",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAr_UiGsWqKIiNuMYw48uAhY1_MLWIdeivWWUdBBliok4EQGfu7-4BmGSBQBOsb-VzCcQr8J6Mo4483KqG0lYBVl0-RA5MaoE8MhXE0OmxbaV1q4apnuWbubCz5JHUlotfEhA2aif8n_gInNgkXLzMxj
+3e4e
+cmGhSticGcnIlmUD51idqKnFwQ8CKldw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "10300 Wilshire Boulevard, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.086237,
+               "lng" : -118.44587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0877194302915,
+                  "lng" : -118.4442967197085
+               },
+               "southwest" : {
+                  "lat" : 34.0850214697085,
+                  "lng" : -118.4469946802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "359f806c0182c3e111f7f6dc5acde55f05ae33e8",
+         "name" : "Hotel Bel-Air",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3302,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104689865356297981126/photos\"\u003eHotel Bel-Air\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA17UKEtEgtOb_NjZpuo5hzpNYarsSvYVJjZSX3Sx3lTMPmkOm96S21EtHdGrQTnGel8D9Vez2Vc2z8bhTy0NnYJ04PY6ybObfEG9sBkJLJoL_fgRMszFZ9ugp2D0g-LF1EhCyHhaLm_j8vpzDTL0uI9n1GhSBf9TPphjIi6_Ucl_nea0C0nGehQ",
+               "width" : 4953
+            }
+         ],
+         "place_id" : "ChIJQ3uF2fC8woARRfjvSUDg2SE",
+         "price_level" : 4,
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAJ5JYVtsgGS-_opEPLopEE-mdR6GYcW-bLXeemoQh_o5uKU7UulPBSoE0TaQ-rF9zurJXPn55HB1I1TqbXS58fzOiQcw7MMerzOlIrFkCbqdV2iJR_hwgedlJxVmgPzbsEhAowxu8xxlCtl3ze1_qd6-vGhRn582jUyYS3HDChDf6VsPruWGhBw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "701 Stone Canyon Road, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.07389299999999,
+               "lng" : -118.468235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.07514833029149,
+                  "lng" : -118.4670833197085
+               },
+               "southwest" : {
+                  "lat" : 34.0724503697085,
+                  "lng" : -118.4697812802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0a0e53eb3db8472da3fb4694435ba78501bb0265",
+         "name" : "Hotel Angeleno",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1459,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116754839533570358242/photos\"\u003eHotel Angeleno\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHm8eZP7KjT5XM3zubCmcnu7Q-mQJuTP6dgSm_kL9vkDxkZ8tcYl9_eRFhuRkXJf9LJ5SNYMhH8lNlsN3nqHrhZRBYsaL8c2nbUmcl1pTmS39KJjZkKqcQY0tKn2-RcW0EhBmEVCzarkVwHXmLYlWKUcZGhSTo2Pcier_iBMw9o5CUbyF4qJWBw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJt37HtsC8woARLi6S2eMbe_o",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAHG7KxjuCrNsDargSreLpzUIQQIoQcg-DV-xf5eiiDaMqY8XpO4NjAGAt5fWUvxwmvA31KkFr6HyARbFYG-pNiOm3bPf5FM7EV8E4oAkNkgg_E4p6yalAcutgulHm9-ApEhAX7Hc6EGQYxklt_luG5I5mGhS-YdOcB6S-i2rwxY4Wg0oE_O80Ww",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "170 North Church Lane, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.072598,
+               "lng" : -118.468582
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0736768302915,
+                  "lng" : -118.4669813197085
+               },
+               "southwest" : {
+                  "lat" : 34.0709788697085,
+                  "lng" : -118.4696792802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "0eed7ce9fbcabbafb612822dd697917af4ac9e0e",
+         "name" : "Luxe Sunset Boulevard Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107586901057917629678/photos\"\u003ehangshim fu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6bBZQdsy4YHOxMjcv3Cumg9yUiNblZ5luSrrlFbzrVIQQjlTk2qqNf5Lz_v7-ulsUHTiEn4kRe1gKSwcMiY31M93iJT3IxP5OGoG0C471U9OSXTSMbzmHghq0LMJorJhEhCAhloM8eWRCXAGxBAIxOY1GhTAbZIlunqVykBL4QiM2uPQa9wUVA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJP2-QVL-8woARNA7fQM5R_gg",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAsfe8mQsis_7ukV8WtY608w-vHswBaas-hkLRx3BRYMbDuSR7KMQDPfTOJflfAU5t7PUUzODx9asNQyODRJEps4o0U9kDYUv0i574yysb2l8P4eQACNuoUtauoHvS7t16EhCXnwFF3QA2Iw0cEe8SsDOUGhSWKudir6CnogbiD6PqZPEc7Kk9Mg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "11461 Sunset Boulevard, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0511292,
+               "lng" : -118.4328056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0525211802915,
+                  "lng" : -118.4315015197085
+               },
+               "southwest" : {
+                  "lat" : 34.0498232197085,
+                  "lng" : -118.4341994802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4f07c4e71d89ce9d03fa9983a8122d07cb3642e0",
+         "name" : "Azul Inn West Los Angeles",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116597620800848914070/photos\"\u003eAzul Inn West Los Angeles\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjel75-iYCKM0RTShqV67YwnFBPcXkOrFhGM3-7nUBqYfrCI3MxP75s8Gbv3265z_hT0JqpMmcdRLOUsBhTS-Dm0tLb3jeYOGMx3n1mX218dKBn6Jb317SpyNH_XXgZBZEhBcfhO1vKqCab2YiMSVPvx0GhTNM1klIV_4VT_7dtf7MxKGbfPv9Q",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJdSBYTpu7woAR3Sf7DOdRWWg",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAA4fykjQNKa0pmJ3HyGGt4x3JNVQTpm9jeDHCTAh5Gy05F9mbp_0BBK4ljIWlyk3dfUcqN0ecLF-pHqVgryM13bHpJYUR5LJ5lB6Tg5RCGI_JFA_4EZUqGS-qhxOBu9OxPEhBbvg5CRpc0kYPZJXFUnYWKGhQHEwS6A9SgmiRVdqUCtocnNOFc1g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "10740 California State Route 2, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0466276,
+               "lng" : -118.4473661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0480337802915,
+                  "lng" : -118.4459429697085
+               },
+               "southwest" : {
+                  "lat" : 34.04533581970851,
+                  "lng" : -118.4486409302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2b21d456606fcc54a7dc1129c912defa289f9e9a",
+         "name" : "Holiday Inn Express West Los Angeles",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115825071599629851306/photos\"\u003eHoliday Inn Express West Los Angeles\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQHQBovkweSkTfRoKQqyO9qENPJDcqOJmXoZ3d214G-qbLN5OgP0HTcOZQFyOijViZ1xoQ1ejvLJxtD38hFKGw-WGRqZEc-hi7tVhUGSSj3SUFz2UJBkxnkUcq2vXsd6hEhDyouwNxbLj6NnVdtFmaakLGhQ2IgfdQfQNueFcpOgY-lQBCAdv4g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJuQNqk3C7woARlnbSL3nEkUM",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAALeQuIpmMMq11FiYJ9UR4_I5qWRCjIFtaXOrnZ-bkFd4Bw72WTkMncrz1gCHivZGmj2FuBnGeJ5X8qJAOspydWKYKfndRRvdAzrMk4FWTseNA6EFl9bksM_lgnclxqGllEhD3LWjL51LI6Ovbk8xf9jWxGhSsmT_RQMMYpyxiVeI2IhgZJLYClg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "11250 California State Route 2, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.05188280000001,
+               "lng" : -118.4175323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.05337813029151,
+                  "lng" : -118.4161994197085
+               },
+               "southwest" : {
+                  "lat" : 34.05068016970851,
+                  "lng" : -118.4188973802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "69aa1a9ccb1f82920988409000e990e17b5925e3",
+         "name" : "Century Park Hotel",
+         "photos" : [
+            {
+               "height" : 3744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107610829379662965341/photos\"\u003eCentury Park Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi5EtYsybjPk0QDa2ieFsz3hqwyyRhcNE5qZo3iinOvtLfciAwPiW4qkZsMeAFFYbgN8Vpg5f3TkbmiMKW9hHympLmIiTdP7SULoyXtAISEXNd4UCkVaYhjx7GP25JKB7EhB_iRjcmyrEKwpHAHXebLDnGhRsYg-UDE3qY2lrrH4LwZ8g9zdugw",
+               "width" : 5616
+            }
+         ],
+         "place_id" : "ChIJTRwaPZO7woARMB6CHkQuqvM",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAo-EXyqmsyV0JIH--h8un-r2yP9c1tSgqHc-fGLIyGML33KRb8l62db3I4Dm3Ke1lHRPZDysGCFu3zC16OJT5b5cgTKm-Gf4fcgr7YS4EYAEpzNSYpycrbuW20Rkyq6xyEhBMjiVcIvOK4TggjwMSkAxaGhTMjp2CJ8Mi1cn2-KmnjKjDXOZ31g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "10330 West Olympic Boulevard, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.052517,
+               "lng" : -118.416775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0539520302915,
+                  "lng" : -118.4155082697085
+               },
+               "southwest" : {
+                  "lat" : 34.0512540697085,
+                  "lng" : -118.4182062302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "98a0231b2c9e4f20fadf1fde47b7cfe934ae7bd6",
+         "name" : "Courtyard by Marriott Los Angeles Century City/Beverly Hills",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106614878117916549924/photos\"\u003eCourtyard by Marriott Los Angeles Century City/Beverly Hills\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW-5QL75xpYVKDrJYhqYPE_0sANz1wh5XzcQ45YU1qkjaLMgQ5a7qxV64_-avqBOe00qoU2XD7cal2hIm9wV2njFHbLM1flI4Xg63bbDJDKvAwqehYa5fl4glg0yPbgeNEhCdztQbBxx-xnIa2Av1r5qyGhQPIfUy9A9nvH9wX_vrg4QuzLe_IA",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJIbJWL5O7woARovCBp1ymJvA",
+         "rating" : 4,
+         "reference" : "CmRSAAAARr9Evnirpnc-F7H7xkPwoNzWsPtOZOpBCUK7yEwwDg7ZegCk8qFgwEJs2Z-fD5Y3jPKbVU5_Jus9Yd7V77xn09Brpuhbwoow2Rdbop-vYUiOUc5jUEnCVF77psVKCqr4EhBentUl6sDpTUaM9uqFv6SxGhQ50dwvrfUZhWXc7qZvz5F8f0-DwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "10320 West Olympic Boulevard, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.08146879999999,
+               "lng" : -118.4139059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.08268143029149,
+                  "lng" : -118.4124788197085
+               },
+               "southwest" : {
+                  "lat" : 34.07998346970849,
+                  "lng" : -118.4151767802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "036816007f207edd82110343cbbe3ad976e16bee",
+         "name" : "Beverly Hills Hotel",
+         "photos" : [
+            {
+               "height" : 1076,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113873817739450896514/photos\"\u003eThe Beverly Hills Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqZOikqAbGWYbcMf1dGkGgdNlBjsulHCR9v3OLdwMK7F2thhU2JkNuOEyHQcnuzGNiMapMwAM3kE1mQ481ZtQFQDrgSD-qhGwVqA85M-6kE5FKrsVGB9RBu-v4PcrMDb4EhB13tx5jknv8iS7Grfgk1pdGhRYrRiF9tnZxmqPtRb3ShdkRA9z3w",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJjWrkXge8woARQa2f1ewAZqA",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAZdNzcudZ97BdWG6VW-VM7Nk5k0YlzPExzoNIo2UpvypchGAMMFKdA82TxzYkraXOPDugwLovwHFUkZ7D3zfDKrNFII8Qoc3XXvMUonrvuu5vjEiCXpnSci0Q76LOX-1GEhBfvuQpl5k0zKbug_cqJ568GhTnHUgAAZAkvj6y0U9KN8N1CyI_AQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "9641 Sunset Boulevard, Beverly Hills"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0658019,
+               "lng" : -118.4105594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0672039802915,
+                  "lng" : -118.4092240697085
+               },
+               "southwest" : {
+                  "lat" : 34.0645060197085,
+                  "lng" : -118.4119220302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "500a20024c631569f6c7fbd5aef2fcedeb10bf6e",
+         "name" : "The Peninsula Beverly Hills",
+         "photos" : [
+            {
+               "height" : 3300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104737288464912423882/photos\"\u003eThe Peninsula Beverly Hills\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAahan3l4lvetjyFg9-QAVuCYs5t4rrA4I8qiQv8hvUP9IqHV57poHMVZkU9firUDlzXkC7eqX7YrVQLh009Qqth9igJhXdwH9RhQtbjuCKpORgfdgm1gFft5HXvLMVO24EhAews7JPB9_aown5UcrRBJUGhRDNxdeVtPq2FoAYNOZCrMQSXyJ8w",
+               "width" : 4800
+            }
+         ],
+         "place_id" : "ChIJo4XM5_W7woARSKsK1bsfNS8",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAx8bKAyuXxkbS0mTNC_Qk7MWBXWckwCXjffmuHZ2xAFANFhy6IE3ZNx2JwxDoXulgVCAI6glnkIulXeYCKGwirO2bxZrjE_sUJ2sg8j6Cp7Be3DOTyzvXj0h-U6236edCEhDNZyN16GflORqnE8N1ABMbGhSS4vX0MqpppKKh3zioFpmIO9O-lA
+2228
+",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "9882 South Santa Monica Boulevard, Beverly Hills"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.065633,
+               "lng" : -118.409649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.06691938029149,
+                  "lng" : -118.4084020697085
+               },
+               "southwest" : {
+                  "lat" : 34.0642214197085,
+                  "lng" : -118.4111000302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bceefa71feeaa8b43f5314afbb45bd62e2a23aee",
+         "name" : "Maison 140 Beverly Hills",
+         "photos" : [
+            {
+               "height" : 681,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107638764050405682947/photos\"\u003eCraig Smith\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjQQKCDaB1hiAsapFjHVwPYhBx6jnbw_AUENuAgGXXpsENwFflAt8ZcxDfJ4XAUnlDKs34AgdHxu9iGyd2XhpcdL8FeiBoobSbJdLWTV9p2KCUcXFt8hw27G7SWxmeQYBEhCukdP_pWWKbR7pvBqD1bOQGhQtE0uw8Jzjes2pyW9H6zcWECzpSQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJLy7Lb_a7woARrxK7_9sLiF4",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAxViWoTJLG7NauZII0yaxDo0U-fVEhyK1pQejgXjZBz5x-ISdMMfCUhRNPA-_UM1f1-ki6abLDfk0XHcel1uo2Ips_pvUYYERdZs3s834laA5RyOImqyPVXcRIExhC_j1EhBuTeYjDq2K7zq6pv4FCh2YGhSsrIOwwjrfoorR0rTDGPRLvpigeA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "140 South Lasky Drive, Beverly Hills"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.06612559999999,
+               "lng" : -118.4090544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0674703302915,
+                  "lng" : -118.4076356697085
+               },
+               "southwest" : {
+                  "lat" : 34.0647723697085,
+                  "lng" : -118.4103336302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c03239bedc9bbb03775b3f922b96c7a74c1740c0",
+         "name" : "Mosaic Hotel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1192,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116910228927580964646/photos\"\u003eMosaic Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6J7BfPEsn4GS_ZYTaGARkMA81WP9NAQNNtykRJZ6wJrJCazZK65rOGa05J-u4A790iX99uZOJHZhwITpV5cf58egalyOiagL1VYDOaVU3MoQr5s5thSmFDkk7-Y-VIu0EhCkoEdMA0QIVPuKHLxudsEDGhTwKtVurSh-7DcimSVuLjYniCfXrg",
+               "width" : 2119
+            }
+         ],
+         "place_id" : "ChIJ8eoca_a7woARuF2mTk2jdME",
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAPiCYGHfipaBGZmKkMJeZ8cdT7PB0zWZJkdH79VR_ZOmXZpXfvZMLvUzunX1hr3fnpTGElSodNA_ao4KSVOLXlD9CYFChwPBl21sqikE1n9gC4gM8p9BhtN15vmLxmTYoEhAVHNjpDXlFsWoADjpeluOTGhQ2lRA2zukE_O9DEkPoDtWEVP-cCw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "125 South Spalding Drive, Beverly Hills"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0413569,
+               "lng" : -118.4293514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.04266363029151,
+                  "lng" : -118.4280739197085
+               },
+               "southwest" : {
+                  "lat" : 34.03996566970851,
+                  "lng" : -118.4307718802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9a63a2b9c1cc819bf83fe2efc9c7de884891fef5",
+         "name" : "LA Sky Boutique Hotel",
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115050886377561768985/photos\"\u003eJacob Padgett\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAswGQRfM1RCv78LkXvbhzLveRtYdLPdk9kQYGibFVy-BrwYLe8IXP-AaFh9EXa1Qixknw_Oin6gfdrX7TIXLs7PMTdfK8PR1It0cay8WObwOg3JEiu6NrsrZdyK1FrsZAEhBqyzlg79vUcBv12nAmKSuAGhReXjG3fnLTOAnrLIBZVSyiF2XtTw",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJ18BBvaK7woARX5pGChPVQio",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAr9f5RsqpL2G-pM3fXDZmGjwj_4ZsT6TGuDgG208ZFcyxK9fFlPHRZZ4Iw4nYc-HbLrr0uPkztZiG0dcSSIknK2FhxFasHoeLC_UayRoPfAPC_0KEnxrKTr41bqWs36XvEhB_HDaCC5MeNWgGHav7IV4vGhTqFI8SGf6yodRPFGo5NAlpjJ3bmA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "2352 Westwood Boulevard, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.054016,
+               "lng" : -118.4123666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.05556843029149,
+                  "lng" : -118.4107887197085
+               },
+               "southwest" : {
+                  "lat" : 34.05287046970849,
+                  "lng" : -118.4134866802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7e31a4c2493f309e5c401e9524f6549123813346",
+         "name" : "InterContinental Los Angeles Century City",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109091429423488306251/photos\"\u003ekarthik G\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe8EP_K4X_W-68QTINTfsN7zeWTi4wausBbH7yK7GXrN9veJKe_Emn4rxWsfbaMoyqjsw7n1zn8vKtagXurooTmEJ3InFCKoFVUTwjYOTxgMm1j0uB9hmJ5ylIpO0RG9lEhDfiCJ3_qrF70xCT4AA7d1AGhSTxJe66c9WRYUTRLkgFuylUc-ruw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJTWllB-27woARFHntVl3XnBc",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAPTCpYlfr3GibUVvZZJV0CyCYe3QFz1prrhHuHBZ4vwcvG_k8ZbPBq13agqj1QMA5zr7t_RT2Qrd6MZnxQA7qC4RF5X_DAsBl40RXBAb9RPXEpxlhV1qXG8nyMZJFrUQvEhBGpurofaE_4VzSzX00G37vGhTQ_y4JTogek-liUIR4lufkroBCVg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "2151 Avenue of the Stars, Los Angeles"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0194543,
+               "lng" : -118.4911912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.05056,
+                  "lng" : -118.443426
+               },
+               "southwest" : {
+                  "lat" : 33.966674,
+                  "lng" : -118.5513399
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "55014b5c5e5d4c598c03d1024c2802d46d8baf02",
+         "name" : "Santa Monica",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102660262134443166967/photos\"\u003eCarl Horne\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMymSe4iaisbSSWrliyCB1RzyBTAIVELK0cIqutODWGbWJWuXBfxgILMFozHdPE5A7M95lX25BcxfqFdoaV9UHDtuo1YnWF8jhpuIyF2uw7Ydxuc2KYQcoDrvjzBGbBA4EhBFSQHVfe3Zb9cV6B5KUey8GhTbFOF3QCehetwROapZCsaJ-S9_WA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJGQCRws6kwoARq_Uj_7UKF7Q",
+         "reference" : "CmRbAAAAdsgngS9oGauitR_L79quGBB5LoAU4yxRNw0zLsx3sAVqlpInib7g4wnABO5PsysmyciihkkDLjRicYHts1qCECP1GvV5p-SSM3zyE5cJqyuTJL4FR9lcoYyhqPRIuwgPEhA0B8WjK8WVVI0TWRp2tQa7GhTj5DbWAQPsAIFhyDsrYGSQjdBjrg",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Santa Monica"
+      }
+   ],
+   "status" : "OK"
+}
+
+0
+
+
+Connection dropped with Google
+Connection establish from ('127.0.0.1', 53544)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53708)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53714)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53719)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53725)
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53728)
+Responds sent:
+AT Hamilton +32762691.862538576 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53739)
+Responds sent:
+AT Hamilton +32763077.977963686 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53896)
+Responds sent:
+AT Hamilton +32763235.703566313 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53900)
+Responds sent:
+AT Hamilton +32763255.217721462 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53904)
+Responds sent:
+AT Hamilton +32763266.972889423 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53909)
+Responds sent:
+AT Hamilton +32763371.714034557 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53915)
+Responds sent:
+AT Hamilton +32763498.24848962 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53920)
+Responds sent:
+AT Hamilton +32763549.778467417 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53924)
+Responds sent:
+AT Hamilton +32763586.866056442 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53928)
+Responds sent:
+AT Hamilton +32763712.386773586 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 53933)
+Responds sent:
+AT Hamilton +32763777.858299494 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 54076)
+Responds sent:
+AT Hamilton +32763888.69573164 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 54080)
+Responds sent:
+AT Hamilton +32763919.478949547 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 54089)
+Responds sent:
+AT Hamilton +32764136.899253607 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 54093)
+Responds sent:
+AT Hamilton +32764165.9197855 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+34.068930,-118.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 54116)
+Responds sent:
+AT Hamilton +32764569.98287654 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+60.068930,-120.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 54130)
+Responds sent:
+AT Hamilton +32764735.407989502 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Connecting to Google
+Connection established with GoogleAPI
+Sending request to Google:
+GET /maps/api/place/nearbysearch/json?key=AIzaSyDK7gC7dm06PKYCiku4zNIkKI1YpwUfvGI&location=+60.068930,-120.445127&radius=10000.0 HTTP/1.1
+Host: maps.googleapis.com
+Content-Type: text/plain; charset=utf-8
+
+
+Received JSON data from Google, start processing JSON dataConnection dropped with Google
+Connection establish from ('127.0.0.1', 56714)
+Responds sent:
+AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Responds sent:
+AT Hamilton +32874441.21576047 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874441.42445445 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874441.581089735 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874441.735515594 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874441.899086475 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.04523444 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.194441557 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.35132456 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.500599384 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.661106586 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.81037855 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874442.974194527 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874443.124990463 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874443.278781414 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874443.433228493 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874443.584263563 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874443.729607582 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874443.875945568 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.02806735 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.207490444 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.352262497 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.49407959 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.662744522 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.805315495 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874444.96398449 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874445.11479044 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874445.271163464 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874445.41955161 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874445.56982255 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874445.713474274 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874445.859763622 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.03400731 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.1808815 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.3250494 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.471279383 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.633537292 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.812883615 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874446.966349363 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874447.116668463 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874447.263916492 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874447.41379261 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874447.55845952 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874447.70125246 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874447.851120472 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.00219941 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.149296522 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.329199553 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.477582455 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.631792545 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.780683517 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874448.92547536 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.08438945 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.224515438 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.372335434 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.524555683 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.6937716 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.843026638 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874449.981046677 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874450.124681473 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874450.27257943 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Connection dropped from ('127.0.0.1', 56714)
+Responds sent:
+AT Hamilton +32874450.45955372 AT Hamilton +32874440.98935938 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Connection establish from ('127.0.0.1', 56779)
+Responds sent:
+AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Responds sent:
+AT Hamilton +32874505.851615667 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.005097628 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.153252363 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.308490515 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.461242437 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.61958146 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.765218496 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874506.943609476 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874507.096722603 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874507.258645535 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874507.394687653 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874507.601370573 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874507.758636475 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874507.907036543 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874508.085412502 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874508.23849559 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874508.39304161 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874508.553464413 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874508.713653564 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874508.903852463 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.045528412 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.201590538 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.35770154 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.506166697 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.657043457 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.84126234 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874509.999982357 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874510.1923635 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874510.34229946 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874510.48999262 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874510.65836048 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874510.874218702 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874511.009290695 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874511.187972546 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874511.354952574 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874511.502381325 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Responds sent:
+AT Hamilton +32874511.651682377 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+
+Connection dropped from ('127.0.0.1', 56779)
+Responds sent:
+AT Hamilton +32874511.818814516 AT Hamilton +32874505.629324436 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+{
+    "html_attributions": [],
+    "results": [],
+    "status": "ZERO_RESULTS"
+}
+
+

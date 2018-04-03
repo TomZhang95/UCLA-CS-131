@@ -1,0 +1,47 @@
+convert_grammar:
+In the convert_grammar implementation, I used a helper function called 
+convert_one to combine all the rules together as a dictionary, then use 
+the convert_grammar as a wrapper to call convert_one to get the correct
+format of hw2 style grammar.
+
+parse_prefix:
+There are two approaches I considered, the first one is parse from
+the "bottom" to the "top", which means parse from nonTerminals to 
+Terminals. Eg. from ["3";"+";"4"] to [Expr, [N Term; N Binop; N Expr].
+However I cannot make sure it would has left most priority in the 
+derivaiton, therefore, I decided to use the second approach, which is
+parse from "top" to the "bottom".
+
+After a simple helper function "append_derivation" which concatinate two
+lists, there are two main functions that one matching terminals and 
+the other one matching nonterminals. The General idea is same as the
+spec mentioned. The function should call acceptor to see whether the 
+suffix can pass the acceptor or not. If there is no prefix, return None. 
+Then if the acceptor returns None, it will the next matching prefix.
+Notice that the prefix might be either a terminal symbol or a nonterminal
+symbol. If there are more than one rules for a symbol/prefix, then it 
+will recursively take care of all the cases that possible.
+
+Weakness:
+This algorithm is actually not complete, it required a special format, or
+say special quality of the grammar as input. For example int the case
+["3";"+";"4"], if the first rule is "Expr -> [N Expr; N Binop; N Term]"
+instead of "Expr -> [N Term; N Binop; N Expr]", the function will 
+inifinitly parse "Expr" by calling find_matching_terminal. Which will
+cause a infinite loop.
+
+In addition, I also found that if we re-declare the type:
+type ('nonterminal, 'terminal) symbol =
+  | N of 'nonterminal
+  | T of 'terminal
+in any test case, we will get a error says:
+Error: This expression has type
+         test_1_nonterminals *
+         (test_1_nonterminals ->
+          (test_1_nonterminals, string) symbol/1274 list list)
+       but an expression was expected of type
+         test_1_nonterminals *
+         (test_1_nonterminals ->
+          (test_1_nonterminals, 'a) symbol/1212 list list)
+       Type (test_1_nonterminals, string) symbol/1274
+       is not compatible with type (test_1_nonterminals, 'a) symbol/1212 

@@ -1,0 +1,10 @@
+Connection establish from ('127.0.0.1', 56822)
+Propagation received from Ball:
+AT Ball +32874591.50627947 kiwi.cs.ucla.edu +60.068930-120.445127 1479413884.392014450
+Connection dropped from ('127.0.0.1', 56822)
+Connection establish from ('127.0.0.1', 56844)
+Connection dropped from ('127.0.0.1', 56844)
+Connection establish from ('127.0.0.1', 56852)
+Connection dropped from ('127.0.0.1', 56852)
+Connection establish from ('127.0.0.1', 56858)
+Connection dropped from ('127.0.0.1', 56858)

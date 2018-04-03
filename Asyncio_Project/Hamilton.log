@@ -1,0 +1,16 @@
+Connection from ('127.0.0.1', 54097)
+Input from ('127.0.0.1', 54097):
+IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Output to ('127.0.0.1', 54097):
+AT Hamilton +32764297.246276379 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Closing connection from ('127.0.0.1', 54097)
+Connecting to Alford
+Connecting to Holiday
+Connection from ('127.0.0.1', 54100)
+Input from ('127.0.0.1', 54100):
+IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Output to ('127.0.0.1', 54100):
+AT Hamilton +32764297.246276379 kiwi.cs.ucla.edu +34.068930-118.445127 1479413884.392014450
+Closing connection from ('127.0.0.1', 54100)
+Connecting to Alford
+Connecting to Holiday
